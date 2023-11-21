@@ -1,14 +1,18 @@
 ## Bio
-
+Pursuing M.S. Ocean Engineering, Graduate Research Assistant in Ocean Acoustics Lab
 ---
 ### Education
-
+B.S. Mechanical Engineering (University of Miami)
+Current - M.S. Ocean Engineering GRAD-05/2024 (University of Rhode Island)
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### Work Experience
-
+Internships:
+Mechanical Engineering Intern - General Dynamics: Bath Iron Works
+Mechanical Engineering Intern - Sensata Technologies Inc.
+Development Intern - Advisor360
 
 ---
 ### Recent Projects
